@@ -1,4 +1,4 @@
-homebrew-pierrecarre
+Personal Homebrew formulas
 ====================
 
-Personal Homebrew formulas
+
